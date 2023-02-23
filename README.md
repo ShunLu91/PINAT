@@ -5,6 +5,7 @@
 ![pytorch](https://img.shields.io/badge/PyTorch-1.9-orange)
 
 This is the code for our paper "PINAT: A Permutation INvariance Augmented Transformer for NAS Predictor".
+As AAAI does not publish the supplementary material, we provide this file in the folder of `assets`.
 
 ![PINAT](assets/pinat_model.png)
 
