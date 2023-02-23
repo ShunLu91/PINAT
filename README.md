@@ -55,7 +55,7 @@ If you find this work helpful in your research, please consider citing our paper
 ```
 @inproceedings{lu2023pinat,
   title     = {PINAT: A Permutation INvariance Augmented Transformer for NAS Predictor},
-  author    = {Lu, Shun and Hu, Yu and Wang, Peihao and Tan, Jianchao and Li, Jixiang and Yang, Sen and Liu, Ji},
+  author    = {Lu, Shun and Hu, Yu and Wang, Peihao and Han, Yan and Tan, Jianchao and Li, Jixiang and Yang, Sen and Liu, Ji},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
   year      = {2023}
 }
