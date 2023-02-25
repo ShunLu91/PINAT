@@ -9,6 +9,8 @@ CIFAR-10: `dataset/cifar10`
 ImageNet: `dataset/imagenet`
 
 ## 2. Model Evaluation
+Download the pre-trained weights from the `darts` folder of [Google Drive](https://drive.google.com/drive/folders/1T_WlAwr1Cp-C3DEyclITyvUdqY3U8R_q?usp=share_link).
+
 To evaluate a pre-trained PINAT model on CIFAR-10, run:
 ```shell
 python evaluate_cifar.py --arch pinat_c2 --dataset cifar10 --pretrained_ckpt ./checkpoints/pinat_c2_best_weights.pt
